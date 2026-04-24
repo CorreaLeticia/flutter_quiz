@@ -1,4 +1,4 @@
-# Sistema de Funcionários
+# Quiz em Flutter
 
 Aplicação desenvolvida em Flutter de um Quiz de Física apresentado ao Professor Ederson
 
